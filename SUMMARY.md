@@ -6,4 +6,5 @@
 ## New Group
 
 * [Untitled](new-group/untitled.md)
+* [New Page](new-group/new-page.md)
 
